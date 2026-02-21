@@ -1,9 +1,5 @@
 # Cpp_Concurrency
-Based on **C++ Concurrency in Action** (2nd Edition) by Anthony Williams.
-
-This repository stores chapter notes and code examples followed along with the book.
-
-## Structure
+Based on **C++ Concurrency in Action** 
 
 ```
 chapters/
@@ -19,7 +15,3 @@ chapters/
   ch10/  - Parallel algorithms
   ch11/  - Testing and debugging multithreaded applications
 ```
-
-Each chapter folder contains:
-- `notes.md` – reading notes and key takeaways
-- `src/`     – code examples and exercises
